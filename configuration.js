@@ -1,36 +1,31 @@
 const config = {
-  name: "Guillaume Levrier",
+  name: "Thomas Charrayre",
   description: {
     EN: {
-      short: `Guillaume Levrier is a political scientist working on biotechnology, currently a CNRS postdoc for the
-        <a href="https://cordis.europa.eu/project/id/951393" target="_blank">Nanobubbles ERC grant</a>. He is affiliated
-        to the <a href="http://umr-lisis.fr/membre/guillaume-levrier/" target="_blank">Laboratoire Interdisciplinaire
-          Sciences Innovations Sociétés (LISIS)</a>, and is a research associate to <a
-            href="https://www.sciencespo.fr/cevipof/en/researcher/guillaume-levrier.html"
-            target="_blank">CEVIPOF (Sciences Po)</a> and to the French National Library (BnF). `,
+      short: `Former student of the École Normale Supérieure Ulm, with a master’s degree in political science from Sciences Po 
+      and a master’s degree in political philosophy from the Université Libre de Bruxelles. 
+      Thomas Charrayre is a doctoral candidate in political theory at CEVIPOF – Sciences Po.
+      His research focuses on the intellectual history of conservatism, particularly on the relationship between 
+      conservative thinkers and liberalism, as well as the plurality of their epistemological approaches. 
+      He's affiliated with <ahref="https://www.sciencespo.fr/cevipof/fr.html" target="_blank"> CEVIPOF</a>.
+`,
       long: "",
     },
     FR: {
-      short: `Guillaume Levrier est un chercheur en sciences
-        politiques
-        spécialisé sur les biotechnologies, actuellement postdoc CNRS pour le <a
-          href="https://cordis.europa.eu/project/id/951393" target="_blank">projet
-          ERC Nanobubbles</a>. Il est affilié au <a
-            href="http://umr-lisis.fr/membre/guillaume-levrier/"
-            target="_blank">Laboratoire Interdisciplinaire
-          Sciences
-          Innovations Sociétés (LISIS)</a>, est associé au <a
-            href="https://www.sciencespo.fr/cevipof/fr/chercheur/guillaume-levrier.html"
-            target="_blank">CEVIPOF (Sciences Po)</a> et à la Bibliothèque nationale de
-        France (BnF).`,
+      short: `Ancien élève de l’École Normale Supérieure de la rue d’Ulm, 
+      titulaire d’un master de science politique à Sciences Po et d’un master en philosophie politique à l’Université Libre de Bruxelles.
+      Thomas Charrayre est doctorant contractuel en théorie politique au sein du CEVIPOF.
+      Ses travaux portent sur l’histoire intellectuelle du conservatisme, en particulier sur le rapport des penseurs conservateurs au libéralisme 
+      et sur la pluralité de leurs approches épistémologiques.
+      Il est affiliée au <ahref="https://www.sciencespo.fr/cevipof/fr.html" target="_blank"> CEVIPOF</a>.`,
       long: "",
     },
   },
   links: [
     {
       label: "twitter",
-      value: "@g_levrier",
-      url: "https://twitter.com/g_levrier",
+      value: "@ThomasUnser",
+      url: "https://x.com/ThomasUnser",
     },
     {
       label: "google scholar",
@@ -48,5 +43,5 @@ const config = {
       url: "https://www.linkedin.com/in/guillaume-levrier-phd-89156838/",
     },
   ],
-  email: { name: "guillaume.levrier", domain: "politique.science" },
+  email: { name: "thomas.charrayre", domain: "sciencespo.fr" },
 };

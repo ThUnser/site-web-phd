@@ -40,14 +40,5 @@ const configuration = {
   ],
   email: { name: "thomas.charrayre", domain: "sciencespo.fr" },
 };
-    links: [
-        {
-            label: "CV",
-            value: "Download",
-            url: "./cv.html"
-        },
-        // other existing link objects here...
-    ]
-};
 
 export default configuration;

@@ -29,12 +29,12 @@ const config = {
     },
     {
       label: "Google Scholar",
-      value: "profile",
+      value: "Thomas Charrayre",
       url: "https://scholar.google.com/citations?user=usDlHMkAAAAJ&hl=en",
     },
     {
       label: "LinkedIn",
-      value: "profile",
+      value: "Thomas Charrayre",
       url: "https://www.linkedin.com/in/thomas-charrayre-830716369/",
     },
   ],

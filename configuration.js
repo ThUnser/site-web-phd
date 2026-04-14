@@ -7,8 +7,7 @@ const configuration = {
       Thomas Charrayre is a doctoral candidate in political theory at CEVIPOF – Sciences Po.
       His research focuses on the intellectual history of conservatism, particularly on the relationship between 
       conservative thinkers and liberalism, as well as the plurality of their epistemological approaches. 
-      He's affiliated with <ahref="https://www.sciencespo.fr/cevipof/fr.html" target="_blank"> CEVIPOF</a>.
-`,
+      He's affiliated with <ahref="https://www.sciencespo.fr/cevipof/fr.html" target="_blank"> CEVIPOF</a>. ,
       long: "",
     },
     FR: {

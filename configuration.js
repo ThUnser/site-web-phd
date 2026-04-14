@@ -1,5 +1,5 @@
 const configuration = {
-     name: "Thomas Charrayre",
+  name: "Thomas Charrayre",
   description: {
     EN: {
       short: `Former student of the École Normale Supérieure Ulm, with a master’s degree in political science from Sciences Po 
@@ -40,5 +40,3 @@ const configuration = {
   ],
   email: { name: "thomas.charrayre", domain: "sciencespo.fr" },
 };
-
-export default configuration;

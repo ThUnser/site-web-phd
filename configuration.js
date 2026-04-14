@@ -23,24 +23,19 @@ const config = {
   },
   links: [
     {
-      label: "twitter",
+      label: "Twitter",
       value: "@ThomasUnser",
       url: "https://x.com/ThomasUnser",
     },
     {
-      label: "google scholar",
+      label: "Google Scholar",
       value: "profile",
-      url: "https://scholar.google.com/citations?user=IRiJFNMAAAAJ&hl=en",
+      url: "https://scholar.google.com/citations?user=usDlHMkAAAAJ&hl=en",
     },
     {
-      label: "pubpeer",
+      label: "LinkedIn",
       value: "profile",
-      url: "https://pubpeer.com/search?q=guillaume+levrier",
-    },
-    {
-      label: "linked in",
-      value: "profile",
-      url: "https://www.linkedin.com/in/guillaume-levrier-phd-89156838/",
+      url: "https://www.linkedin.com/in/thomas-charrayre-830716369/",
     },
   ],
   email: { name: "thomas.charrayre", domain: "sciencespo.fr" },
